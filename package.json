@@ -1,0 +1,7 @@
+{
+  "name": "eslint-plugin-eslint-yesplan",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
